@@ -13,3 +13,5 @@ modules.order
 .vscode
 __pycache__
 *.pyc
+.Module.symvers.cmd
+.modules.order.cmd
